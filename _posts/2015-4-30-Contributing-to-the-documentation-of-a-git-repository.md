@@ -45,6 +45,7 @@ git pull [NEWREP].wiki.git master
 ```<br><br>
 **NOTE** : This is only possible when the wiki changes are forked from latest wiki of OLDREP<br>
 <br>
-####References: 
+
+#### References: <br>
 * [http://stackoverflow.com/questions/10642928/how-to-pull-request-a-wiki-page-on-github](http://stackoverflow.com/questions/10642928/how-to-pull-request-a-wiki-page-on-github)
 * [http://fusiongrokker.com/post/how-you-can-contribute-to-taffy-documentation](http://fusiongrokker.com/post/how-you-can-contribute-to-taffy-documentation)
