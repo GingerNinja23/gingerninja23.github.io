@@ -15,7 +15,7 @@ theme:
    #  <h2>Blog</h2>
 
   #header_text_feature_image: "/img/background_large.jpg"
-  footer_text: >
+  footer_text: >  
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
   # Icons
