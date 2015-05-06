@@ -12,7 +12,7 @@ theme:
 
   # Header and footer text
   #header_text: >
-   #  <h2>Blog</h2>
+     <h2>Blog</h2>
 
   #header_text_feature_image: "/img/background_large.jpg"
   footer_text: >  
