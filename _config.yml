@@ -5,8 +5,8 @@ url: "http://gingerninja.me" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Teja Theegala
-  avatar: https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/7/005/028/39a/129af2e.jpg
+  title: "Teja Theegala"
+  avatar: "avatar.jpg"
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
 
@@ -15,7 +15,7 @@ theme:
      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 
      <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
-  header_text_feature_image:
+  header_text_feature_image: "background_large.jpg"
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
