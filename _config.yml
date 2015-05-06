@@ -1,12 +1,12 @@
 # SITE CONFIGURATION
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://example.com" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "http://gingerninja.me" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Type Theme
-  avatar: avatar.png
+  title: Teja Theegala
+  avatar: https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/7/005/028/39a/129af2e.jpg
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
 
@@ -21,30 +21,30 @@ theme:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "sriteja23@gmail.com"# Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: "TejaTheegala"
   flickr:
-  github: "rohanchandra/type-theme"
-  google_plus:
+  github: "GingerNinja23"
+  google_plus: "+TejaTheegala"
   instagram:
-  linkedin:  # Full URL
+  linkedin:  "http://in.linkedin.com/in/tejatheegala"# Full URL
   pinterest:
-  reddit:
+  reddit: "gingerninja23"
   soundcloud:
-  stack_exchange:  # Full URL
+  stack_exchange:  "users/2557681/gingerninja23"# Full URL
   steam:
   tumblr:
-  twitter: "twitter"
+  twitter: "ringo279"
   wordpress:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-62589624-1"# Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
-  katex: true # Enable if using math markup
+  katex: false # Enable if using math markup
 
   # Localization strings
   str_follow_on: "Follow on"
