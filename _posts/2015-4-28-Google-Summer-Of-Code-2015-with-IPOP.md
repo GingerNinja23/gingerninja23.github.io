@@ -15,5 +15,5 @@ I will be working on the implementation of a controller framework, which will al
 The current implementation of IPOP controllers limits our ability to extend and configure controllers to exhibit different functionalities for different applications. The goal of this project is to create a flexible event-driven controller framework that provides a basis for next-generation IPOP controller designs. The framework should allow designers to “plug” independent modules that perform different core functions of an IPOP controller (e.g. IP address translation, topology management, routing, multicasting).
 
 <br>
-I will be mentored by Prof. Renato Figueiredo and Kensworth Subratie. Looking forward to an exciting summer working on this project.
+I will be mentored by Prof. Renato Figueiredo and Kensworth Subratie. Looking forward to an exciting summer working on this project :)
 
