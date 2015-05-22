@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Feature images
-feature-img: "img/gsoc2015.png"
+title: Google Summer of Code 2015 with IPOP
+feature-img: "img/gsoc15.png"
 ---
 
 I've been accepted for Google Summer of Code 2015 and I will be working on the IP-over-P2P (IPOP) Project.<br><br>
