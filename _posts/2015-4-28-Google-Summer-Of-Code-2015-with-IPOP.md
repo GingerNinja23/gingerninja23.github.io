@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Google Summer of Code 2015 with IPOP
-feature-img: "img/gsoc15.png"
 ---
+
+![Google Summer of Code 2015](/img/gsoc15.png)
 
 I've been accepted for Google Summer of Code 2015 and I will be working on the IP-over-P2P (IPOP) Project.<br><br>
 IPOP is an open-source user-centric software virtual network allowing end users to define and create their own virtual private networks (VPNs).IPOP virtual networks provide end-to-end tunneling of IP or Ethernet over “TinCan” links setup and managed through a control API to create various software-defined VPN overlays.<br><br>
